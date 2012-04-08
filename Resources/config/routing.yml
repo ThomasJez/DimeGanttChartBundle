@@ -1,0 +1,9 @@
+DimeGanttChartBundle_ganttchart:
+    pattern: /ganttchart
+    defaults: {_controller: DimeGanttChartBundle:GanttChart:index }      
+
+DimeGanttChartBundle_ajaxcall:
+    pattern: /ganttchart/ajax
+    defaults: {_controller: DimeGanttChartBundle:GanttChart:ajax }      
+    options: 
+      expose: true

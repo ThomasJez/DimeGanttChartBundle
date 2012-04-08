@@ -1,0 +1,7 @@
+parameters:
+#    dime_gantt_chart.example.class: Dime\GanttChartBundle\Example
+
+services:
+#    dime_gantt_chart.example:
+#        class: %dime_gantt_chart.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

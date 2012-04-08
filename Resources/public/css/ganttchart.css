@@ -1,0 +1,12 @@
+@CHARSET "UTF-8";
+
+body {
+    background-color: #d0d0d0;      
+    text-align: center;  /* Zentrierung im Internet Explorer */
+}
+
+canvas {
+	background-color: white;
+}
+
+
