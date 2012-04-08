@@ -1,0 +1,12 @@
+#Dime Invoice Bundle
+
+An invoice plugin for Dime
+
+##Installation
+
+
+ *  get Dime
+ *  checkout the extensions branch
+ *  follow the README of Dime
+ *  go to http://localhost/Dime/web/app_dev.php/ganttchart in your browser
+
