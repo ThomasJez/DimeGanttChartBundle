@@ -1,6 +1,6 @@
-#Dime Invoice Bundle
+#Dime GanttChart Bundle
 
-An invoice plugin for Dime
+An ganttchart plugin for Dime
 
 ##Installation
 
